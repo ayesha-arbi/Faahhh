@@ -1,3 +1,2 @@
-()=>{
-    console.log("DB TWOO")
-}
+
+console.log(map)
