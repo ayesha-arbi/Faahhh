@@ -1,2 +1,1 @@
-
-console.log(map)
+num>4
